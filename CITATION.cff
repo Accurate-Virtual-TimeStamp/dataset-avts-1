@@ -1,0 +1,33 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: A Round-Trip Time and Virtualization dataset
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - given-names: Pedro
+    name-particle: R. X.
+    name-suffix: do Carmo
+    email: pedro.carmo@gprt.ufpe.br
+    orcid: 'https://orcid.org/0000-0002-7952-3239'
+    affiliation: >-
+      Network and Telecommunications Research Group -
+      GPRT
+  - given-names: 'Eduardo '
+    name-suffix: Freitas
+    email: eduardo.freitas@gprt.ufpe.br
+    affiliation: >-
+      Network and Telecommunications Research Group
+      (GPRT)
+    orcid: 'https://orcid.org/0000-0002-5752-525X'
+  - given-names: Assis
+    name-particle: T. de Oliveira
+    family-names: Filho
+    email: assis.tiago@gprt.ufpe.br
+    affiliation: >-
+      Network and Telecommunications Research Group
+      (GPRT)
+    orcid: 'https://orcid.org/0000-0001-9873-6929'
