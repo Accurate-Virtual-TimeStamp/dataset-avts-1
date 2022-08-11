@@ -4,7 +4,7 @@ Here are the data used in the experiments described in the paper [1] and [2]
 
 ## Authors
 
-- [@atof](https://www.github.com/atof)
+- [@assistof](https://www.github.com/assistof)
 - [@e3xf](https://www.github.com/e3xf)
 - [@prximenes](https://www.github.com/prximenes)
 
